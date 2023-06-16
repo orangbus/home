@@ -1,8 +1,8 @@
 {
-  "name": "home",
-  "author": "imsyy",
-  "github": "https://github.com/imsyy/home",
-  "home": "https://imsyy.top",
+  "name": "OrangBus",
+  "author": "OrangBus",
+  "github": "https://github.com/orangbus/home",
+  "home": "https://orangbus.cn",
   "private": true,
   "version": "4.0.3",
   "type": "module",

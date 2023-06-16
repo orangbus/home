@@ -1,11 +1,11 @@
 English | [Chinese](./README.md)
 
 <p>
-<strong><h2>無名の主页</h2></strong>
+<strong><h2>OrangBusの主页</h2></strong>
 Simple little homepage, had enough of the original one and made a new one
 </p>
 
-![無名の主页](https://s2.loli.net/2022/07/14/K5JigfvDoNewtuS.webp)
+![OrangBusの主页](https://s2.loli.net/2022/07/14/K5JigfvDoNewtuS.webp)
 
 >The logo font on the home page has been compressed, so if you use a font other than this logo, it will change back to the default font, Here is the [full font](https://file.4everland.app/font/Other/Pacifico-Regular.ttf)  
 
@@ -13,8 +13,8 @@ Simple little homepage, had enough of the original one and made a new one
 
 >Due to CDN caching, you may need `Ctrl` + `F5` to force a browser cache refresh to see the latest results
 
-- [無名の主页](https://www.imsyy.top)
-- [無名の主页 - 备用线路](https://home-imsyy.vercel.app/)
+- [OrangBusの主页](https://www.orangbus.cn)
+- [OrangBusの主页 - 备用线路](https://home-imsyy.vercel.app/)
 
 ### Functions
 
@@ -55,7 +55,7 @@ Please change the song related parameters in the `.env` file to customize the so
 
 ```bash
 # Songs API address
-VITE_SONG_API = "https://api-meting.imsyy.top"
+VITE_SONG_API = "https://api-meting.orangbus.cn"
 # Song server ( netease-netease, tencent-qq music )
 VITE_SONG_SERVER = "netease"
 # Playback type ( song-song, playlist-playlist, album-album, search-search, artist-artist )
@@ -123,4 +123,4 @@ make clean all
 * [高德开放平台](https://lbs.amap.com/)
 * [Hitokoto 一言](https://hitokoto.cn/)
 
-<a title="SSL" target="_blank" href="https://myssl.com/seal/detail?domain=blog.imsyy.top"><img src="https://img.shields.io/badge/MySSL-安全认证-brightgreen"></a>&nbsp;<a title="CDN" target="_blank" href="https://cdnjs.com/"><img src="https://img.shields.io/badge/CDN-Cloudflare-blue"></a>&nbsp;<a title="Copyright" target="_blank" href="https://imsyy.top/"><img src="https://img.shields.io/badge/Copyright%20%C2%A9%202020--2023-%E7%84%A1%E5%90%8D-red"></a>
+<a title="SSL" target="_blank" href="https://myssl.com/seal/detail?domain=blog.orangbus.cn"><img src="https://img.shields.io/badge/MySSL-安全认证-brightgreen"></a>&nbsp;<a title="CDN" target="_blank" href="https://cdnjs.com/"><img src="https://img.shields.io/badge/CDN-Cloudflare-blue"></a>&nbsp;<a title="Copyright" target="_blank" href="https://orangbus.cn/"><img src="https://img.shields.io/badge/Copyright%20%C2%A9%202020--2023-%E7%84%A1%E5%90%8D-red"></a>
